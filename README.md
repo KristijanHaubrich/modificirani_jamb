@@ -1,5 +1,5 @@
 # MODIFICIRANI JAMB - DZ1 -> ANDROID PROGRAMIRANJE (KOTLIN)
-Zadatak ovog projekta je bio napraviti aplikaciju za modificiranu verziju igre **Jamb**  pomoću IntelliJ Community Edition IDE u programskom jeziku **Kotlin**.
+Zadatak ovog projekta je bio napraviti konzolnu aplikaciju za modificiranu verziju igre **Jamb**  pomoću IntelliJ Community Edition IDE u programskom jeziku **Kotlin**.
 ### PRAVILA IGRE
 Pravila igre ovog modificiranog jamba su malo drugačija od tradicionalnog načina igre. Igrači na početku igre biraju **bodovni prag** (najmanje 100) te nema ograničen broj poteza. **MIN** i **MAX** elementi igre su *izbačeni* te se može samo *dobiti* **JAMB**,**POKER**,**FULL**,**TRIS**,**MALA SKALA** ili **VELIKA SKALA**. Svaki dobitak se nadodaje ukupnom broju bodova. U svakom **potezu** igrač mora kroz **3 bacanja** odabrati pet kockica koje će zaključati i ići na provjeru dobitka te samu dodjelu bodova ako dobitak postoji. Nakon svakog **poteza** provjerava se je li netko od igrača dostigao bodovni prag. **Pobjednik** je prvi igrač koji prijeđe bodovni prag. Ako je više igrača prešlo bodovni prag gleda se tko je sakupio više bodova. Ako je više igrača prešlo bodovni prag i imaju jednak broj bodova pobjednici su svi koji imaju najveći broj bodova (moguć je veći broj pobjednika).  
 
